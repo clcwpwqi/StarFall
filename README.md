@@ -9,8 +9,8 @@ Copyright (c) 2026 MiaoSL
 详情请见 [LICENSE](LICENSE) 文件。
 
 技术栈
-- Three.js
-- 原生 JavaScript
+Three.js
+原生 JavaScript
 
 作者
 MiaoSL
