@@ -7,6 +7,7 @@
 > **提示：** 本项目可视为 StarFall 的“C服”（区别于官方 M 服）。
 > 
  * **作者**: MiaoSL
+ * Copyright (c) 2026 MiaoSL
  * **分支维护**: clcwpwqi
  * **技术栈**: Three.js, JavaScript
  * **开源协议**: MIT 许可证
