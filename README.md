@@ -25,6 +25,8 @@ Copyright (c) 2026 MiaoSL
 - 最新版本:StarFall VoidEchoe v0.5
 - 最后更新:2026.5.27 00:13
 - 最新版本：StarFall VoidEchoe v0.599
+- 最后更新：2026.6.20
+- 最新版本：StarFall 600Final
 - 最后更新：2026.6.23
 
 -----
